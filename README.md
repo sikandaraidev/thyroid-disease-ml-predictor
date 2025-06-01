@@ -26,6 +26,15 @@ To create an intelligent helper tool that can assist in predicting possible thyr
 - Random Forest Classifier
 - Macro F1 Score (Cross-Validated): **0.9861 ± 0.0088**
 
+## Dataset
+The dataset used in this project is publicly available at the UCI Machine Learning Repository:  
+[Thyroid Disease Dataset](https://archive.ics.uci.edu/dataset/102/thyroid+disease)
+
+## Research Inspiration
+This implementation is based on insights from the following research paper:  
+[Sikandar et al., 2022 - Thyroid Disease Prediction Using Machine Learning](https://pmc.ncbi.nlm.nih.gov/articles/PMC9405591/#B22-cancers-14-03914)
+
+
 ## Files Included
 - `thyroid_predictor.ipynb`: Main Colab notebook with preprocessing, feature selection, model training, evaluation, and saving.
 - `thyroid_rf_model.pkl`: Trained Random Forest model.
