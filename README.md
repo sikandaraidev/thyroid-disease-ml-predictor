@@ -17,6 +17,9 @@ To create an intelligent helper tool that can assist in predicting possible thyr
 - FTI
 - Referral source
 
+![Uploading image.png…]()
+
+
 ## Target Classes
 - Hypothyroid
 - Hyperthyroid
